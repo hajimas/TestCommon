@@ -1,3 +1,3 @@
-module github.com/hajimas/TestCommon
+module TestMainProject/TestCommon
 
 go 1.18
